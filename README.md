@@ -18,7 +18,7 @@ code.
 Running the application:
 
 ```shell
-$ go run main.go [<number-of-days>; default: 2]
+$ go run texttest_fixtures.go [<number-of-days>; default: 2]
 ```
 
 ## 🧪 Test
