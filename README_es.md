@@ -18,7 +18,7 @@ Realiza un _fork_ de este repositorio y lee el fichero con las
 Para ejecutar la aplicación:
 
 ```shell
-$ go run main.go [<number-of-days>; default: 2]
+$ go run texttest_fixtures.go [<number-of-days>; default: 2]
 ```
 
 ## 🧪 Test
