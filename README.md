@@ -54,5 +54,5 @@ $ go build .
 After that you can run the binary:
 
 ```shell
-$ ./go-gildedrose [number of days; optional; default 2]
+$ ./go-gildedrose [<number-of-days>; default: 2]
 ```
