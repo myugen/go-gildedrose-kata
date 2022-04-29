@@ -54,5 +54,5 @@ $ go build .
 Una vez creado, para ejecutar la aplicación:
 
 ```shell
-$ ./go-gildedrose [número de dias; opcional; por defecto 2]
+$ ./go-gildedrose [<number-of-days>; default: 2]
 ```
